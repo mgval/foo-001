@@ -57,9 +57,9 @@ En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que l
 
 Por como es definida la integral indefinida, tenemos las siguientes consecuencias:
 
--  La antiderivada de la derivada de una función es la misma función más la constante. En otras palabras: $$\int f'(x)dx=f(x)+C.$$
+1. La antiderivada de la derivada de una función es la misma función más la constante de integración. En otras palabras: $$\int f'(x)dx=f(x)+C.$$
 
-- La derivada de la antiderivada de una función es la misma función. En otras palabras: $$\frac{d}{dx}\int f(x)dx=f(x).$$
+2. La derivada de la antiderivada de una función es la misma función. En otras palabras: $$\frac{d}{dx}\int f(x)dx=f(x).$$
 
 Observación importante En resumen, la derivada y la integral indefinida son operaciones inversas una de la otra.
 
@@ -68,5 +68,5 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjY1MzUwNSwtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbMTE3OTYwNjUzMiwtMjE0NDA0NzgxOF19
 -->
