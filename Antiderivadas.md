@@ -39,11 +39,16 @@ La integral del monomio $x^n$, con respecto a la variable $x$, es:
 
 $$\int x^{n}dx=\frac{x^{n+1}}{n+1}+K,$$
 
-para todo $n\neq 1$
+para todo $n\in \mathbb{R}$ y $n\neq 1$
 
 #### Ejemplos.
 *Ejemplo 1* 
-$$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este cas
+$$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
+
+*Ejemplo 2* 
+$$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=\f$$ En este caso, $n=2$.
+
+
 #### Observaciones
 
 #### Integrales de funciones trigonométricas
@@ -78,5 +83,5 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjQ3NjM0MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbMTI3OTM2MjgzNCwtMjE0NDA0NzgxOF19
 -->
