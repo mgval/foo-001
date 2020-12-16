@@ -75,12 +75,14 @@ En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que l
 
 ### Ejemplos
 
-*Ejemplo 1* Calcular la integral indefinida de la función $f(x)=$
+*Ejemplo 1* Calcular la integral indefinida de la función $f( x) =3x^{3} +2x^{2} -x+5$
 $$
 \begin{aligned}
-		\int_{-1}^{1}(x^3+2x)\, dx &= \int_{-1}^{1}x^3\, dx+\int_{-1}^{1} 2x\, dx && \scriptstyle{\text{Linealidad de la integral}\, \int_{a}^{b}f(x)+g(x)\,dx=\int_{a}^{b}f(x)\, dx+\int_{a}^{b}g(x)\, dx} \\ &= \int_{-1}^{1}x^3\, dx+2\int_{-1}^{1} x\, dx && \scriptstyle{\text{Linealidad de la integral}\, \int_{a}^{b}kf(x)\,dx=k\int_{a}^{b}f(x)\, dx} \\ &= \left.\frac{x^4}{4}\right|_{-1}^1\, +2 \left.\frac{x^2}{2}\right|_{-1}^1\,  && \scriptstyle{\text{TFC}\,\int_{a}^{b}f(x)\, dx=\left .F(x)\right|_a^b } \\ &= \left(\frac{1^4}{4}-\frac{(-1)^4}{4}\right)+2 \left(\frac{1^2}{2}-\frac{(-1)^2}{2}\right) && \scriptstyle{\text{Recordatorio}\,\left .F(x)\right|_a^b=F(b)-F(a) } \\  &= \left(\frac{1}{4}-\frac{1}{4}\right)+2 \left(\frac{1}{2}-\frac{1}{2}\right) && \\ &= 0 &&
-	\end{aligned}
+	\int f(x) \, dx &= \int f(x) \, dx		 
+\end{aligned}
 $$
+
+
 ## Relación entre la integral indefinida y la derivada
 
 Por como es definida la integral indefinida, tenemos las siguientes consecuencias:
@@ -96,6 +98,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYyNzk4MDksLTE0NDU1ODMwNzMsLT
-IxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbMTI2Mzk5OTc4NCwtMTQ0NTU4MzA3MywtMj
+E0NDA0NzgxOF19
 -->
