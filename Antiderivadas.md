@@ -34,11 +34,14 @@ donde $K$ es una constante.
 
 ## Integrales de funciones elementales
 
-- Integrales de monomios
+#### Integrales de monomios
+La integral del monomio $x^n$, con respecto a la variable $x$, es:
 
-- Integrales de funciones trigonométricas
+$$\int x^{n}dx=\frac{x^{n+1}}{n+1}+C$$, para todo $n\neq 1$
 
-- Integral del logaritmo y la exponencial
+#### Integrales de funciones trigonométricas
+
+#### Integral del logaritmo y la exponencial
 
 ## Propieades algebraicas de las integrales
 
@@ -68,5 +71,5 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTYwNjUzMiwtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbNDU5MjAxOTE3LC0yMTQ0MDQ3ODE4XX0=
 -->
