@@ -46,7 +46,7 @@ para todo $n\in \mathbb{R}$ y $n\neq 1$
 $$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
 
 *Ejemplo 2* 
-$$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=\f$$ En este caso, $n=2$.
+$$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=\frac{1}{6x^6}+K$$ En este caso, $n=-7$.
 
 
 #### Observaciones
@@ -83,5 +83,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTM2MjgzNCwtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTE0NDU1ODMwNzMsLTIxNDQwNDc4MThdfQ
+==
 -->
