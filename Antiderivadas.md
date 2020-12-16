@@ -86,6 +86,7 @@ $$
 \end{aligned}
 $$
 
+*Ejemplo 2.* 
 
 ## Relación entre la integral indefinida y la derivada
 
@@ -102,6 +103,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM1NjE4OTEsLTE0NDU1ODMwNzMsLT
-IxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbLTIwNzk5NTk3NSwtMTQ0NTU4MzA3MywtMj
+E0NDA0NzgxOF19
 -->
