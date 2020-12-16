@@ -73,7 +73,9 @@ $$
 $$
 En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que la integral posee la propiedad de *linealidad* 
 
+### Ejemplos
 
+*Ejemplo 1* Calcular la integral indefinida de la función $f(x)=$
 
 ## Relación entre la integral indefinida y la derivada
 
@@ -90,6 +92,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYyNzE4NSwtMTQ0NTU4MzA3MywtMj
-E0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTE2NzY4ODE3MzEsLTE0NDU1ODMwNzMsLT
+IxNDQwNDc4MThdfQ==
 -->
