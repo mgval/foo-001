@@ -42,7 +42,8 @@ $$\int x^{n}dx=\frac{x^{n+1}}{n+1}+K,$$
 para todo $n\neq 1$
 
 #### Ejemplos.
-
+*Ejemplo 1* 
+$$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este cas
 #### Observaciones
 
 #### Integrales de funciones trigonométricas
@@ -77,5 +78,5 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Njg3NzgzNiwtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTIyNjQ3NjM0MywtMjE0NDA0NzgxOF19
 -->
