@@ -50,7 +50,7 @@ $$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=\frac{1}{6x^6}+K
 
 
 #### Observaciones
-
+*Observación 1.* Cuando $n=0$, la integral del monomio $x^0=1$ 
 #### Integrales de funciones trigonométricas
 
 #### Integral del logaritmo y la exponencial
@@ -83,6 +83,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1ODMwNzMsLTIxNDQwNDc4MThdfQ
-==
+eyJoaXN0b3J5IjpbMzIwMzMyMDc4LC0xNDQ1NTgzMDczLC0yMT
+Q0MDQ3ODE4XX0=
 -->
