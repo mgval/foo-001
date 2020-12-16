@@ -75,12 +75,13 @@ En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que l
 
 ### Ejemplos
 
-*Ejemplo 1* Calcular la integral indefinida de la función $f( x) =3x^{3} +2x^{2} -x+5$
+*Ejemplo 1.* Calcular la integral indefinida de la función $f( x) =3x^{3} +2x^{2} -x+5$
 $$
 \begin{aligned}
 	\int f(x) \, dx &= \int 3x^{3} +2x^{2} -x+5 \, dx \\
 			 &= \int 3x^{3}\, dx +\int 2x^{2}\, dx -\int  x\, dx+\int 5 \, dx \\
-			  &= 3\int x^{3}\, dx +2\int x^{2}\, dx -\int  x\, dx+\int 5 \, dx \\
+			  &= 3\int x^{3}\, dx +2\int x^{2}\, dx -\int  x\, dx+5\int  \, dx \\
+			  &= 3\cdot \frac{x^{4}}{4} +2\cdot  \frac{x^{2}}{}\, dx -\int  x\, dx+5\int  \, dx \\
 \end{aligned}
 $$
 
@@ -100,6 +101,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1Njk5NzQ3LC0xNDQ1NTgzMDczLC0yMT
-Q0MDQ3ODE4XX0=
+eyJoaXN0b3J5IjpbMTY4ODg4NDMxMywtMTQ0NTU4MzA3MywtMj
+E0NDA0NzgxOF19
 -->
