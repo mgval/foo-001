@@ -54,7 +54,7 @@ $$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
 $$\int 1\, dx =\int  x^{0}\, dx=\frac{x^{0+1}}{0+1}+K=x+K$$ Para evitar escribir $\int 1\, dx$ o $\int x^0\, dx$, ocupamos la notación: 
 $$\int \,dx=x+K$$
 
-
+*Observación 1.* La fórmula $\int x^{n}dx=\frac{x^{n+1}}{n+1}+K$ **no sirve** para integrar $x^{-1}$, porque en este caso, $n=-1$
  
 #### Integrales de funciones trigonométricas
 
@@ -88,6 +88,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNzYwNjM0LC0xNDQ1NTgzMDczLC0yMT
-Q0MDQ3ODE4XX0=
+eyJoaXN0b3J5IjpbLTM4NzEyOTEzMiwtMTQ0NTU4MzA3MywtMj
+E0NDA0NzgxOF19
 -->
