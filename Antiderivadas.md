@@ -46,7 +46,8 @@ para todo $n\in \mathbb{R}$ y $n\neq 1$
 $$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
 
 *Ejemplo 2* 
-$$\int 1\, dx =\int  x^{0}\, dx=\frac{x^{0+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=\frac{1}{6x^6}+K$$ En este caso, $n=-7$.
+$$\int 1\, dx =\int  x^{0}\, dx=\frac{x^{0+1}}{0+1}+K=x+K$$ Para evitar escribir $\int 1\, dx$ Esto es lo que justifica la igualdad: 
+$$\int \,dx=x$$
 
 
 #### Observaciones
@@ -85,6 +86,6 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjQ0NjgyNCwtMTQ0NTU4MzA3MywtMj
-E0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTIxMTU1NjYzMzIsLTE0NDU1ODMwNzMsLT
+IxNDQwNDc4MThdfQ==
 -->
