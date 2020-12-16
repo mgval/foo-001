@@ -53,10 +53,20 @@ $$
 $$
 En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que la integral posee la propiedad de *linealidad* 
 
+## Relación entre la integral indefinida y la derivada
+
+Por como es definida la integral indefinida, tenemos las siguientes consecuencias:
+
+-  La antiderivada de la derivada de una función es la misma función más la constante. En otras palabras: $$\int f'(x)dx=f(x)+C.$$
+
+- La derivada de la antiderivada de una función es la misma función. En otras palabras: $$\frac{d}{dx}\int f(x)dx=f(x).$$
+
+Observación importante En resumen, la derivada y la integral indefinida son operaciones inversas una de la otra.
+
 ## El problema del valor inicial
 
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbMTM2MjY1MzUwNSwtMjE0NDA0NzgxOF19
 -->
