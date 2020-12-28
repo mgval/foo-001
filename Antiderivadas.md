@@ -1,6 +1,7 @@
 # Antiderivada y la integral indefinida
 
 
+
 ## Definición
 Una **antiderivada** de una función $y=f(x)$ es una función $y=F(x)$ derivable que cumple $\displaystyle \frac{dF}{dx}=f(x)$
 
@@ -58,6 +59,11 @@ $$\int \,dx=x+K$$
  
 #### 2. Integrales de funciones trigonométricas
 
+Las integrales de las funciones *seno* y *coseno* son las siguientes:
+
+\begin{aligned}
+\end{aligned}
+
 #### 3. Integral del logaritmo y la exponencial
 
 ## Propieades algebraicas de las integrales
@@ -103,6 +109,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ##
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNz
-k5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTE5NjA4MDk0MCw5ODUzNzMzMDIsMTk0NT
+E3NDg3OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3
+ODE4XX0=
 -->
