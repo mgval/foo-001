@@ -80,7 +80,7 @@ La integral de la función racional $f(x)=\frac{1}{x}$ es:
 
 $$\int \frac{1}{x}\, dx=\ln |x|+K$$
 
-donde $\ln$ es el *logaritmo natural* en base $e$[^2]
+donde $\ln$ es el *logaritmo natural en base* $e$[^2]
 ## Propieades algebraicas de las integrales
 
 Al igual que las derivadas, las integrales indefinidas tienen propiedades algebraicas con respecto a la suma y al producto, que permiten calcular integrales más complejas:
@@ -147,10 +147,10 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 [^1]: $e$ es el número de Euler $e=2.71828...$
-[^2]
+[^2]: También llamado logaritmo neperiano.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTcwMTAxMiwtNDIyMjY3NTA4LDYzOD
+eyJoaXN0b3J5IjpbLTIyNjk2NDIwMywtNDIyMjY3NTA4LDYzOD
 IxMDg3MiwtMTE5NzMyMjQ1Myw5ODUzNzMzMDIsMTk0NTE3NDg3
 OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3ODE4XX
 0=
