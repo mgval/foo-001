@@ -74,7 +74,9 @@ $$
 \int e^x\, dx &= e^x+K
 \end{aligned}$$
 
-#### 4. Integral de la función $1$
+#### 4. Integral de la función $f(x)=\frac{1}{x}$
+
+
 
 ## Propieades algebraicas de las integrales
 
@@ -144,7 +146,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODk0NDE2OSw2MzgyMTA4NzIsLTExOT
+eyJoaXN0b3J5IjpbLTg2NjA3MDUwOSw2MzgyMTA4NzIsLTExOT
 czMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3
 NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
 -->
