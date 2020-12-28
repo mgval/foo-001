@@ -89,7 +89,9 @@ En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que l
 
 ### Ejemplos
 
-*Ejemplo 1.* Calcular la integral indefinida de la función $f( x) =3x^{3} +2x^{2} -x+5$
+* **Ejemplo 1** Calcular la integral indefinida de la función $f( x) =3x^{3} +2x^{2} -x+5$
+
+  **Desarrollo**
 $$
 \begin{aligned}
 	\int f(x) \, dx &= \int 3x^{3} +2x^{2} -x+5 \, dx \\
@@ -100,7 +102,7 @@ $$
 \end{aligned}
 $$
 
-*Ejemplo 2.*  Calcular la integral indefinida de la función $g(x)=3$
+*Ejemplo 2.*  Calcular la integral indefinida de la función $g(x)=3\sin(x)+2e^x$
 
 ## Relación entre la integral indefinida y la derivada
 
@@ -119,7 +121,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzcxODQ0LC0xMTk3MzIyNDUzLDk4NT
-M3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMw
-NzMsLTIxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbMTUyNzUwNjgyOCwtMTE5NzMyMjQ1Myw5OD
+UzNzMzMDIsMTk0NTE3NDg3OCwtMjA3OTk1OTc1LC0xNDQ1NTgz
+MDczLC0yMTQ0MDQ3ODE4XX0=
 -->
