@@ -68,7 +68,7 @@ $$
 $$
 
 #### 3. Integral de la exponencial
-Para la función exponencial en base $e$, a saber, $f(x)=e^x$, su integral indefinida es la siguiente:
+Para la función exponencial en base $e$, a saber, $f(x)=e^x$, su integral indefinida es la siguiente[^1]:
 $$
 \begin{aligned}
 \int e^x\, dx &= e^x+K
@@ -115,9 +115,11 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 ## El problema del valor inicial
 
 ##
+
+[^1]
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzUxMDIwMCwtMTE5NzMyMjQ1Myw5OD
-UzNzMzMDIsMTk0NTE3NDg3OCwtMjA3OTk1OTc1LC0xNDQ1NTgz
-MDczLC0yMTQ0MDQ3ODE4XX0=
+eyJoaXN0b3J5IjpbLTEyMTkyNTA3NDYsLTExOTczMjI0NTMsOT
+g1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3NSwtMTQ0NTU4
+MzA3MywtMjE0NDA0NzgxOF19
 -->
