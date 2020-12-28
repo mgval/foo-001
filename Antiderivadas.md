@@ -126,7 +126,7 @@ $$
 
 ## Relación entre la integral indefinida y la derivada
 
-Por como es definida la integral indefinida, tenemos las siguientes consecuencias:
+Por como es definida la integral indefinida, las siguientes consecuencias son *inmediatas*:
 
 1. La antiderivada de la derivada de una función es la misma función más la constante de integración. En otras palabras: $$\int f'(x)\, dx=f(x)+K.$$
 
@@ -153,8 +153,8 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjk3NTI0NywtNDIyMjY3NTA4LDYzOD
-IxMDg3MiwtMTE5NzMyMjQ1Myw5ODUzNzMzMDIsMTk0NTE3NDg3
-OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3ODE4XX
-0=
+eyJoaXN0b3J5IjpbLTEzNTE3MjMyOSwtNTEyOTc1MjQ3LC00Mj
+IyNjc1MDgsNjM4MjEwODcyLC0xMTk3MzIyNDUzLDk4NTM3MzMw
+MiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMwNzMsLT
+IxNDQwNDc4MThdfQ==
 -->
