@@ -31,7 +31,7 @@ Si $y=F(x)$ es una antiderivada de la función $y=f(x)$, entonces la integral in
 $$\int f(x) \,dx=F(x)+K,$$
 donde $K$ es una constante.
 
-### Ejemplos
+
 
 ## Integrales de funciones elementales
 
@@ -146,7 +146,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 1. $\int \sqrt{4 x-3} \,d x=\frac{1}{6}(4 x-3)^{3 / 2}+K$
 2. $\int x \sqrt{x^{2}-5}\, d x=\frac{1}{3}\left(x^{2}-5\right)^{3 / 2}+K$ 
 
-**Problema 3** Calcular la derivada $F'(x)$ de la siguiente función
+**Problema 3** Calcular la derivada $F'(x)$ de la siguiente función:
 $$F(x)=x^{2}\cdot \int  \cos \left(x^{3}-1\right) \,d x$$
 
 
@@ -160,8 +160,8 @@ $$F(x)=x^{2}\cdot \int  \cos \left(x^{3}-1\right) \,d x$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzM2MDc3LDE3NTgyMjI4OCwtMzY5Mj
-Q5NzExLC01MTI5NzUyNDcsLTQyMjI2NzUwOCw2MzgyMTA4NzIs
-LTExOTczMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNz
-k5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbMTA3MDEwMzQ0NywxNzU4MjIyODgsLTM2OT
+I0OTcxMSwtNTEyOTc1MjQ3LC00MjIyNjc1MDgsNjM4MjEwODcy
+LC0xMTk3MzIyNDUzLDk4NTM3MzMwMiwxOTQ1MTc0ODc4LC0yMD
+c5OTU5NzUsLTE0NDU1ODMwNzMsLTIxNDQwNDc4MThdfQ==
 -->
