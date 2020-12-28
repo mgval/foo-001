@@ -100,7 +100,7 @@ $$
 \end{aligned}
 $$
 
-*Ejemplo 2.* 
+*Ejemplo 2.*  Calcular la integral indefinida de la función $g(x)=3$
 
 ## Relación entre la integral indefinida y la derivada
 
@@ -116,10 +116,10 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 ##
 
-[^1]
+[^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkyNTA3NDYsLTExOTczMjI0NTMsOT
-g1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3NSwtMTQ0NTU4
-MzA3MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbMTE5NzcxODQ0LC0xMTk3MzIyNDUzLDk4NT
+M3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMw
+NzMsLTIxNDQwNDc4MThdfQ==
 -->
