@@ -129,7 +129,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 ## Problemas propuestos 
 
-**Problema 1** Para la función $f(x)=2x^2$, calcular la pendiente y ecuación de la recta tangente al punto $(1,2)$.
+**Problema 1** Calcular la integral indefinida de la función.
 
 **Problema 2** Para la función $f(x)=\frac{1}{1-x}$, calcular la pendiente y ecuación de la recta tangente al punto $\left(5,-\frac{1}{4}\right)$.
 
@@ -142,7 +142,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDM0NTA4LC0xMTk3MzIyNDUzLDk4NT
+eyJoaXN0b3J5IjpbNjM4MjEwODcyLC0xMTk3MzIyNDUzLDk4NT
 M3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMw
 NzMsLTIxNDQwNDc4MThdfQ==
 -->
