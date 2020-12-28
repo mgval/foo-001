@@ -1,6 +1,6 @@
 # Antiderivada y la integral indefinida
 
-La derivada y la integral indefinida son dos operaciones que se realizan sobre funciones. En este caso, la integral indefinida toma una función y entrega como resultado otra función. La forma en cómo se define la integral indefinida, junto con sus propiedades algebraicas, hace que posea una estrecha relación con la derivada. La manera más natural de entender las integrales indefinidas es a través de la antiderivada. En esta oportunidad, sólo nos limitaremos a entender los conceptos de la manera más algebraica posible, obviando detalles que deben p
+La derivada y la integral indefinida son dos operaciones que se realizan sobre funciones. En este caso, la integral indefinida toma una función y entrega como resultado otra función. La forma en cómo se define la integral indefinida, junto con sus propiedades algebraicas, hace que posea una estrecha relación con la derivada. La manera más natural de entender las integrales indefinidas es a través de la antiderivada. En esta oportunidad, sólo nos limitaremos a entender los conceptos de la manera más algebraica posible, obviando detalles relacionados a las funciones involucradas, como por ejemplo su *dominio*.
 
 ## Definición
 Una **antiderivada** de una función $y=f(x)$ es una función $y=F(x)$ derivable que cumple $\displaystyle \frac{dF}{dx}=f(x)$
@@ -138,11 +138,11 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 **Problema 1** Calcular la integral indefinida de la función.
 
-**Problema 2** Para la función $f(x)=\frac{1}{1-x}$, calcular la pendiente y ecuación de la recta tangente al punto $\left(5,-\frac{1}{4}\right)$.
+**Problema 2** 
 
-**Problema 3** Calcular $g'(x)$ para la función cúbica $g'(x)=3x^2+2x-5$.
+**Problema 3** 
 
-**Problema 4** Calcular $g'(x)$ para la función cúbica $g'(x)=2x^3+3x$.
+**Problema 4** 
 
 
 
@@ -150,8 +150,8 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^2]: También llamado logaritmo neperiano.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODM4NzgyNiwtNDIyMjY3NTA4LDYzOD
-IxMDg3MiwtMTE5NzMyMjQ1Myw5ODUzNzMzMDIsMTk0NTE3NDg3
-OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3ODE4XX
-0=
+eyJoaXN0b3J5IjpbLTE5NjMwMjIyMTEsLTQyMjI2NzUwOCw2Mz
+gyMTA4NzIsLTExOTczMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4
+NzgsLTIwNzk5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF
+19
 -->
