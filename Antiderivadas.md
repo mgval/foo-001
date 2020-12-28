@@ -76,8 +76,11 @@ $$
 
 #### 4. Integral de la función $f(x)=\frac{1}{x}$
 
-La integral de la función ñ
+La integral de la función racional $f(x)=\frac{1}{x}$ es:
 
+$$\int \frac{1}{x}\, dx=\ln |x|+K$$
+
+donde $\ln$ es el *logaritmo natural* en base $e$[^2]
 ## Propieades algebraicas de las integrales
 
 Al igual que las derivadas, las integrales indefinidas tienen propiedades algebraicas con respecto a la suma y al producto, que permiten calcular integrales más complejas:
@@ -144,9 +147,11 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 [^1]: $e$ es el número de Euler $e=2.71828...$
+[^2]
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MzEzMjMsLTQyMjI2NzUwOCw2MzgyMT
-A4NzIsLTExOTczMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4Nzgs
-LTIwNzk5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTE1MTcwMTAxMiwtNDIyMjY3NTA4LDYzOD
+IxMDg3MiwtMTE5NzMyMjQ1Myw5ODUzNzMzMDIsMTk0NTE3NDg3
+OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3ODE4XX
+0=
 -->
