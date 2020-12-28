@@ -74,6 +74,8 @@ $$
 \int e^x\, dx &= e^x+K
 \end{aligned}$$
 
+#### 4. Integral de la función $1$
+
 ## Propieades algebraicas de las integrales
 
 Al igual que las derivadas, las integrales indefinidas tienen propiedades algebraicas con respecto a la suma y al producto, que permiten calcular integrales más complejas:
@@ -142,7 +144,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MjEwODcyLC0xMTk3MzIyNDUzLDk4NT
-M3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMw
-NzMsLTIxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbLTU3ODk0NDE2OSw2MzgyMTA4NzIsLTExOT
+czMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3
+NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
 -->
