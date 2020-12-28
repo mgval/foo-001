@@ -102,7 +102,21 @@ $$
 \end{aligned}
 $$
 
-*Ejemplo 2.*  Calcular la integral indefinida de la función $g(x)=3\sin(x)+2e^x$
+* **Ejemplo 2**  Calcular la integral indefinida de la función $g(x)=3\sin(x)+2e^x$
+
+  **Desarrollo**
+  $$
+  \begin{aligned}
+	\int g(x) \, dx &= \int 3\sin(x)+2e^x\, dx \\
+			 &= \int 3\sin()\, dx +\int 2x^{2}\, dx -\int  x\, dx+\int 5 \, dx \\
+			  &= 3\int x^{3}\, dx +2\int x^{2}\, dx -\int  x\, dx+5\int  \, dx \\
+			  &= 3\cdot \frac{x^{4}}{4} +2\cdot  \frac{x^{3}}{3} -  \frac{x^2}{2}+5x+K \\
+			  &=  \frac{3x^{4}}{4} + \frac{2x^{3}}{3} -  \frac{x^2}{2}+5x+K \\
+\end{aligned}
+$$
+
+
+
 
 ## Relación entre la integral indefinida y la derivada
 
@@ -121,7 +135,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzUwNjgyOCwtMTE5NzMyMjQ1Myw5OD
+eyJoaXN0b3J5IjpbMTg1OTQ2MDE2NCwtMTE5NzMyMjQ1Myw5OD
 UzNzMzMDIsMTk0NTE3NDg3OCwtMjA3OTk1OTc1LC0xNDQ1NTgz
 MDczLC0yMTQ0MDQ3ODE4XX0=
 -->
