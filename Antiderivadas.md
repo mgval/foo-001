@@ -139,9 +139,10 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 **Problema 1** Calcular la integral indefinida de las siguientes funciones:
 1. $\int (3x^4-8x^2+2x)\, dx$
 2. $\int (10x^{3/4}-4x^{-2/5})\, dx$
-3. 
 
-**Problema 2** 
+**Problema 2** Compruebe las siguientes integrales derivando el resultado:
+
+1. \int 
 
 **Problema 3** 
 
@@ -156,8 +157,8 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MzM5OTgyLC0zNjkyNDk3MTEsLTUxMj
-k3NTI0NywtNDIyMjY3NTA4LDYzODIxMDg3MiwtMTE5NzMyMjQ1
-Myw5ODUzNzMzMDIsMTk0NTE3NDg3OCwtMjA3OTk1OTc1LC0xND
-Q1NTgzMDczLC0yMTQ0MDQ3ODE4XX0=
+eyJoaXN0b3J5IjpbLTE3ODQxNDc1OSwtMzY5MjQ5NzExLC01MT
+I5NzUyNDcsLTQyMjI2NzUwOCw2MzgyMTA4NzIsLTExOTczMjI0
+NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3NSwtMT
+Q0NTU4MzA3MywtMjE0NDA0NzgxOF19
 -->
