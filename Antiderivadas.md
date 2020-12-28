@@ -136,7 +136,8 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 ## Problemas propuestos 
 
-**Problema 1** Calcular la integral indefinida de la función.
+**Problema 1** Calcular la integral indefinida de las siguientes funciones:
+1. $\displaystyle\int (3x^4-8x^2+2x)\, dx$
 
 **Problema 2** 
 
@@ -153,8 +154,8 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTI0OTcxMSwtNTEyOTc1MjQ3LC00Mj
-IyNjc1MDgsNjM4MjEwODcyLC0xMTk3MzIyNDUzLDk4NTM3MzMw
-MiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMwNzMsLT
-IxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDQwNTM1MSwtMzY5MjQ5NzExLC01MT
+I5NzUyNDcsLTQyMjI2NzUwOCw2MzgyMTA4NzIsLTExOTczMjI0
+NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3NSwtMT
+Q0NTU4MzA3MywtMjE0NDA0NzgxOF19
 -->
