@@ -43,14 +43,15 @@ $$\int x^{n}dx=\frac{x^{n+1}}{n+1}+K,$$
 para todo $n\in \mathbb{R}$ y $n\neq 1$
 
 #### Ejemplos.
-*Ejemplo 1* 
-$$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
 
-*Ejemplo 2.* 
+- **Ejemplo 1** 
+	$$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
 
- $$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=-\frac{1}{6x^6}+K$$ En este caso, $n=-7$.
+- **Ejemplo 2** 
 
-#### Observaciones
+  $$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=-\frac{1}{6x^6}+K$$ En este caso, $n=-7$.
+
+### Observaciones
 * Sabemos que  $x^0=1$. En este caso, la integral indefinida queda de la siguiente manera:
 $$\int 1\, dx =\int  x^{0}\, dx=\frac{x^{0+1}}{0+1}+K=x+K$$ Para evitar escribir $\int 1\, dx$ o $\int x^0\, dx$, ocupamos la notación: 
 $$\int \,dx=x+K$$
@@ -159,8 +160,8 @@ $$F(x)=x^{2}\cdot \int  \cos \left(x^{3}-1\right) \,d x$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODIyMjg4LC0zNjkyNDk3MTEsLTUxMj
-k3NTI0NywtNDIyMjY3NTA4LDYzODIxMDg3MiwtMTE5NzMyMjQ1
-Myw5ODUzNzMzMDIsMTk0NTE3NDg3OCwtMjA3OTk1OTc1LC0xND
-Q1NTgzMDczLC0yMTQ0MDQ3ODE4XX0=
+eyJoaXN0b3J5IjpbODEwMzM2MDc3LDE3NTgyMjI4OCwtMzY5Mj
+Q5NzExLC01MTI5NzUyNDcsLTQyMjI2NzUwOCw2MzgyMTA4NzIs
+LTExOTczMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNz
+k5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
 -->
