@@ -92,7 +92,7 @@ $$
 \int k\cdot f(x)\, dx &= k\cdot \int f(x)\, dx.
 \end{aligned}
 $$
-En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que la integral posee la propiedad de *linealidad* 
+En un lenguaje más formal, al cumplirse las igualdades de arriba, se dice que la integral posee la propiedad de *linealidad*. 
 
 ### Ejemplos
 
@@ -128,7 +128,7 @@ $$
 
 Por como es definida la integral indefinida, tenemos las siguientes consecuencias:
 
-1. La antiderivada de la derivada de una función es la misma función más la constante de integración. En otras palabras: $$\int f'(x)\, dx=f(x)+C.$$
+1. La antiderivada de la derivada de una función es la misma función más la constante de integración. En otras palabras: $$\int f'(x)\, dx=f(x)+K.$$
 
 2. La derivada de la antiderivada de una función es la misma función. En otras palabras: $$\frac{d}{dx}\int f(x)\, dx=f(x).$$
 
@@ -144,14 +144,17 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 **Problema 4** 
 
-
-
 [^1]: $e$ es el número de Euler $e=2.71828...$
 [^2]: También llamado logaritmo neperiano.
+
+
 > Written with [StackEdit](https://stackedit.io/).
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMwMjIyMTEsLTQyMjI2NzUwOCw2Mz
-gyMTA4NzIsLTExOTczMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4
-NzgsLTIwNzk5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF
-19
+eyJoaXN0b3J5IjpbLTUxMjk3NTI0NywtNDIyMjY3NTA4LDYzOD
+IxMDg3MiwtMTE5NzMyMjQ1Myw5ODUzNzMzMDIsMTk0NTE3NDg3
+OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3ODE4XX
+0=
 -->
