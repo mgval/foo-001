@@ -51,11 +51,11 @@ $$\int  x^2\, dx=\frac{x^{2+1}}{2+1}+K=\frac{x^3}{3}+K$$ En este caso, $n=2$.
  $$\int  x^{-7}\, dx=\frac{x^{-7+1}}{-7+1}+K=\frac{x^{-6}}{-6}+K=-\frac{1}{6x^6}+K$$ En este caso, $n=-7$.
 
 #### Observaciones
-*Observación 1.* Sabemos que  $x^0=1$. En este caso, la integral indefinida queda de la siguiente manera:
+* Sabemos que  $x^0=1$. En este caso, la integral indefinida queda de la siguiente manera:
 $$\int 1\, dx =\int  x^{0}\, dx=\frac{x^{0+1}}{0+1}+K=x+K$$ Para evitar escribir $\int 1\, dx$ o $\int x^0\, dx$, ocupamos la notación: 
 $$\int \,dx=x+K$$
 
-*Observación 1.* La fórmula $\int x^{n}dx=\frac{x^{n+1}}{n+1}+K$ **no sirve** para integrar $x^{-1}$, porque en este caso, $n=-1$. 
+* La fórmula $\int x^{n}dx=\frac{x^{n+1}}{n+1}+K$ **no sirve** para integrar $x^{-1}$, porque en este caso, $n=-1$. 
  
 #### 2. Integrales de funciones trigonométricas
 
@@ -153,7 +153,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3MjMyOSwtNTEyOTc1MjQ3LC00Mj
+eyJoaXN0b3J5IjpbLTUxNTUyMjk0NywtNTEyOTc1MjQ3LC00Mj
 IyNjc1MDgsNjM4MjEwODcyLC0xMTk3MzIyNDUzLDk4NTM3MzMw
 MiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMwNzMsLT
 IxNDQwNDc4MThdfQ==
