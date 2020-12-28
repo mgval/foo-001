@@ -1,6 +1,6 @@
 # Antiderivada y la integral indefinida
 
-
+La derivada y la integral  indefinida son dos operaciones que se realizan sobre funciones. En este caso, la integral
 
 ## Definición
 Una **antiderivada** de una función $y=f(x)$ es una función $y=F(x)$ derivable que cumple $\displaystyle \frac{dF}{dx}=f(x)$
@@ -150,7 +150,7 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 [^2]: También llamado logaritmo neperiano.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjk2NDIwMywtNDIyMjY3NTA4LDYzOD
+eyJoaXN0b3J5IjpbLTM5NDMzMzgwOCwtNDIyMjY3NTA4LDYzOD
 IxMDg3MiwtMTE5NzMyMjQ1Myw5ODUzNzMzMDIsMTk0NTE3NDg3
 OCwtMjA3OTk1OTc1LC0xNDQ1NTgzMDczLC0yMTQ0MDQ3ODE4XX
 0=
