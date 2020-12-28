@@ -140,11 +140,13 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 1. $\int (3x^4-8x^2+2x)\, dx$
 2. $\int (10x^{3/4}-4x^{-2/5})\, dx$
 
-**Problema 2** Compruebe las siguientes integrales derivando el resultado:
+**Problema 2** Compruebe las siguientes integrales indefinidas derivando el resultado:
 
-1. \int 
+1. $\int \sqrt{4 x-3} d x=\frac{1}{6}(4 x-3)^{3 / 2}+K$
+2. $\int x \sqrt{x^{2}-5} d x=\frac{1}{3}\left(x^{2}-5\right)^{3 / 2}+K$ 
 
-**Problema 3** 
+**Problema 3** Calcular la derivada $F'(x)$ de la siguiente función
+$$$$
 
 **Problema 4** 
 
@@ -157,8 +159,8 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQxNDc1OSwtMzY5MjQ5NzExLC01MT
-I5NzUyNDcsLTQyMjI2NzUwOCw2MzgyMTA4NzIsLTExOTczMjI0
-NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNzk5NTk3NSwtMT
-Q0NTU4MzA3MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTEwMzYwNTE5MjUsLTM2OTI0OTcxMSwtNT
+EyOTc1MjQ3LC00MjIyNjc1MDgsNjM4MjEwODcyLC0xMTk3MzIy
+NDUzLDk4NTM3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLT
+E0NDU1ODMwNzMsLTIxNDQwNDc4MThdfQ==
 -->
