@@ -1,5 +1,5 @@
 # Antiderivada y la integral indefinida
-## _asdf_
+## _Definición, ejemplos resueltos y problemas_
 
 La derivada y la integral indefinida son dos operaciones que se realizan sobre funciones. En este caso, la integral indefinida toma una función y entrega como resultado otra función. La forma en cómo se define la integral indefinida, junto con sus propiedades algebraicas, hace que posea una estrecha relación con la derivada. La manera más natural de entender las integrales indefinidas es a través de la antiderivada. En esta oportunidad, sólo nos limitaremos a entender los conceptos de la manera más algebraica posible, obviando detalles relacionados a las funciones involucradas, como por ejemplo su *dominio*.
 
@@ -161,8 +161,8 @@ $$F(x)=x^{2}\cdot \int  \cos \left(x^{3}-1\right) \,d x$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjgzNjExLDE3NTgyMjI4OCwtMzY5Mj
-Q5NzExLC01MTI5NzUyNDcsLTQyMjI2NzUwOCw2MzgyMTA4NzIs
-LTExOTczMjI0NTMsOTg1MzczMzAyLDE5NDUxNzQ4NzgsLTIwNz
-k5NTk3NSwtMTQ0NTU4MzA3MywtMjE0NDA0NzgxOF19
+eyJoaXN0b3J5IjpbLTkzMDQxOTUyOCwxNzU4MjIyODgsLTM2OT
+I0OTcxMSwtNTEyOTc1MjQ3LC00MjIyNjc1MDgsNjM4MjEwODcy
+LC0xMTk3MzIyNDUzLDk4NTM3MzMwMiwxOTQ1MTc0ODc4LC0yMD
+c5OTU5NzUsLTE0NDU1ODMwNzMsLTIxNDQwNDc4MThdfQ==
 -->
