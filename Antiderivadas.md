@@ -111,7 +111,6 @@ $$
 			 &= \int 3\sin(x)\, dx -\int 2e^x\, dx  \\
 			  &= 3\int \sin(x)\, dx -2\int e^x\, dx  \\
 			  &= -3\cos(x)-2e^x+K \\
-			  &=  \frac{3x^{4}}{4} + \frac{2x^{3}}{3} -  \frac{x^2}{2}+5x+K \\
 \end{aligned}
 $$
 
@@ -128,14 +127,22 @@ Por como es definida la integral indefinida, tenemos las siguientes consecuencia
 
 Observación importante En resumen, la derivada y la integral indefinida son operaciones inversas una de la otra.
 
-## El problema del valor inicial
+## Problemas propuestos 
 
-##
+**Problema 1** Para la función $f(x)=2x^2$, calcular la pendiente y ecuación de la recta tangente al punto $(1,2)$.
+
+**Problema 2** Para la función $f(x)=\frac{1}{1-x}$, calcular la pendiente y ecuación de la recta tangente al punto $\left(5,-\frac{1}{4}\right)$.
+
+**Problema 3** Calcular $g'(x)$ para la función cúbica $g'(x)=3x^2+2x-5$.
+
+**Problema 4** Calcular $g'(x)$ para la función cúbica $g'(x)=2x^3+3x$.
+
+
 
 [^1]: $e$ es el número de Euler $e=2.71828...$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyODQxNjYzLC0xMTk3MzIyNDUzLDk4NT
+eyJoaXN0b3J5IjpbLTQzNDM0NTA4LC0xMTk3MzIyNDUzLDk4NT
 M3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLTE0NDU1ODMw
 NzMsLTIxNDQwNDc4MThdfQ==
 -->
