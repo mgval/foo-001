@@ -142,13 +142,13 @@ Observación importante En resumen, la derivada y la integral indefinida son ope
 
 **Problema 2** Compruebe las siguientes integrales indefinidas derivando el resultado:
 
-1. $\int \sqrt{4 x-3} d x=\frac{1}{6}(4 x-3)^{3 / 2}+K$
-2. $\int x \sqrt{x^{2}-5} d x=\frac{1}{3}\left(x^{2}-5\right)^{3 / 2}+K$ 
+1. $\int \sqrt{4 x-3} \,d x=\frac{1}{6}(4 x-3)^{3 / 2}+K$
+2. $\int x \sqrt{x^{2}-5}\, d x=\frac{1}{3}\left(x^{2}-5\right)^{3 / 2}+K$ 
 
 **Problema 3** Calcular la derivada $F'(x)$ de la siguiente función
-$$$$
+$$F(x)=x^{2}\cdot \int  \cos \left(x^{3}-1\right) \,d x$$
 
-**Problema 4** 
+
 
 [^1]: $e$ es el número de Euler $e=2.71828...$
 [^2]: También llamado logaritmo neperiano.
@@ -159,8 +159,8 @@ $$$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYwNTE5MjUsLTM2OTI0OTcxMSwtNT
-EyOTc1MjQ3LC00MjIyNjc1MDgsNjM4MjEwODcyLC0xMTk3MzIy
-NDUzLDk4NTM3MzMwMiwxOTQ1MTc0ODc4LC0yMDc5OTU5NzUsLT
-E0NDU1ODMwNzMsLTIxNDQwNDc4MThdfQ==
+eyJoaXN0b3J5IjpbMTc1ODIyMjg4LC0zNjkyNDk3MTEsLTUxMj
+k3NTI0NywtNDIyMjY3NTA4LDYzODIxMDg3MiwtMTE5NzMyMjQ1
+Myw5ODUzNzMzMDIsMTk0NTE3NDg3OCwtMjA3OTk1OTc1LC0xND
+Q1NTgzMDczLC0yMTQ0MDQ3ODE4XX0=
 -->
